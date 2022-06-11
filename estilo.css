@@ -1,0 +1,50 @@
+div#display{
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+    width: 50%;
+}
+div#keys{
+    background-color: aquamarine;
+    padding: 20px;
+    width: 50%;
+    
+}
+
+p.pbutton{
+    padding: 10px;
+    width: 5%;
+    text-align: center;
+    display: inline-block;
+}
+
+p#num1{
+    background-color: blueviolet;
+}
+p#num2{
+    background-color: blueviolet;
+}
+p#num3{
+    background-color: blueviolet;
+}
+p#num4{
+    background-color: blueviolet;
+}
+p#num5{
+    background-color: blueviolet;
+}
+p#num6{
+    background-color: blueviolet;
+}
+p#num7{
+    background-color: blueviolet;
+}
+p#num8{
+    background-color: blueviolet;
+}
+p#num9{
+    background-color: blueviolet;
+}
+p#num0{
+    background-color: blueviolet;
+}

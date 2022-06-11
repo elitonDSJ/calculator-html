@@ -1,0 +1,1 @@
+console.log(document.getElementById("num1").textContent);
